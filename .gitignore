@@ -1,5 +1,5 @@
 **/*.o
-GitTestProject
+test
 .sconsign.dblite
 **/*.swp
 **/*.swo
